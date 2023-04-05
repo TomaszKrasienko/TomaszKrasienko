@@ -1,4 +1,4 @@
- # 👨🏼‍💻 Hi, I'm Tomasz
+ <h1> 👨🏼‍💻 Hi, I'm Tomasz </h2>
 I'm a backend developer. All projects are created by me from scratch and are aimed at developing my skills.
 - 🔭 I’m currently working on app made with TDD and DDD processes, with RabbitMQ Queues, Entity Framework and MongoDB
 - 🌱 I’m currently learning .NET API, .NET Blazor, Angular
